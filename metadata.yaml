@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2272
     wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32545#The-Haunters-of-the-Silences--A-Book-of-Animal-Life
 gutenberg_issued: '2010-05-27'
 gutenberg_type: Text
 identifiers:
